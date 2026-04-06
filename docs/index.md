@@ -16,7 +16,7 @@ This guide is designed for developers and technical users looking to integrate E
 
 **Not a "tech person"?** No problem. If the technical side feels a bit daunting, we are more than happy to provide hands-on support to help you with the integration and implementation process.
 
-# 🤝 Integrations
+## 🤝 Integrations
 
 Below are our publicly available open-source integrations. If your website or technology stack is listed, feel free to [https://entangle.cloud/contact](https://entangle.cloud/contact) us to learn how to integrate Entangle into your site.
 
