@@ -84,6 +84,8 @@ Once the plugin is activated:
 1. In your WordPress admin sidebar, click **Entangle**
 2. You will see the Entangle settings page with the following fields:
 
+<img width="1796" height="1806" alt="image" src="https://github.com/user-attachments/assets/fffaca86-65d2-4016-9fc9-02669b10e345" />
+
 ### Script URL
 
 Paste your full JavaScript module URL here.
